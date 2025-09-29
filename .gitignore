@@ -1,0 +1,21 @@
+# Ignorar todo tipo de mídia que não precisa versionar
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp3
+*.mp4
+*.wav
+
+# Ignorar arquivos temporários do editor
+*.log
+*.tmp
+*.bak
+
+# Pastas de configuração do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
